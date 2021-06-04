@@ -2,6 +2,7 @@
 
 ## ffmpeg.py
 
+convert the file of .mp4 into .wav with sampling rate 8000
 
 ## pickdata.py
 
