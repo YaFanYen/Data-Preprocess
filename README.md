@@ -15,6 +15,11 @@ split data into train / validation / test
 
 ## split_2
 
+For data type in 
+    sample1>mix     sample2>mix     ...     samplen>mix
+            spk1            spk1                    spk1
+            spk2            spk2                    spk2
+
 split data into mix / spk1 / spk2
 
 `python split_2.py`
