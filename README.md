@@ -1,19 +1,19 @@
 # Data-Preprocess
 
-## ffmpeg
+## ffmpeg.py
 
 convert the file of .mp4 into .wav with sampling rate 8000
 
 `python ffmpeg.py`
 
-## split
+## split.py
 
 split data into train / validation / test
 
 `python split.py`
 
 
-## split_2
+## split_2.py
 
 For data type in
 
@@ -24,3 +24,10 @@ For data type in
 split data into mix / spk1 / spk2
 
 `python split_2.py`
+
+
+## rm.py
+
+Remove file for file_name>5000
+
+`python rm.py`
