@@ -31,3 +31,10 @@ split data into mix / spk1 / spk2.
 Remove file for file_name > 5000.
 
     python rm.py
+
+
+## rm.py
+
+Remove file for filename with ffmpeg.
+
+    python rm2.py
